@@ -1,0 +1,179 @@
+*
+{
+   font-weight: watcher;
+}
+
+#global
+{
+   width: 1356px;
+   height: 550px;
+   flex-shrink: 0;
+   border: 1px solid;
+   background-color:rgb(253, 191, 183);
+   margin-left: -5px;
+}
+.img01
+ {
+   width: 1356px;
+   height: 150px;
+ } 
+ .img02
+ {
+   width: 1356px;
+   height: 320px;
+   margin-top: -47px;
+ }
+ .img03
+ {
+   width: 1357px;
+   height: 172px;
+   margin-top: -53px;
+ } 
+ .sign
+ {
+   position: absolute;
+   margin-left: 1000px;
+   margin-top:-505px ;
+ }
+ .img04
+ {
+   position: absolute;
+   margin-top: -520px;
+   width: 180px;
+   height: 70px;
+   margin-left: 1170px;
+ }
+ .img05
+ {
+   width:75px;
+   height: 45px;
+   position: absolute;
+   margin-top: -500px;
+   margin-left: 1230px;
+ }
+ .img06
+ {
+   position: absolute;
+   margin-top: -330px;
+   width: 650px;
+   height: 160px;
+   margin-left: 350px;
+ }
+ .tit01
+ {
+   position: absolute;
+   margin-top: -310px;
+   width: 380px;
+   height: 40px;
+   margin-left: 480px;
+ }
+ .img08
+ {
+   position: absolute;
+   width: 350px;
+   height: 95px;
+   margin-top: -277px;
+   margin-left: 490px;
+ }
+ .tit02
+ {
+   position: absolute;
+   margin-top: -268px;
+   margin-left: 635px;
+ }
+ .img07
+ {
+   position: absolute;
+   margin-top: -250px;
+   margin-left: 640px;
+   width: 45px;
+   height: 45px;
+ } 
+ .img09
+ {
+   position: absolute;
+   margin-left: 598px;
+   margin-top: -205px;
+ }
+ .img10
+ {
+   position: absolute;
+   margin-top: -150px;
+   width: 200px;
+   height: 40px;
+   margin-left: 20px;
+ }
+ .img11
+ {
+   position: absolute;
+   margin-top: -100px;
+   width: 90px;
+   height: 40px; 
+   margin-left: 50px;
+ }
+ .img12
+ {
+   position: absolute;
+   margin-top: -50px;
+   width: 40px;
+   height: 40px;
+   margin-left: 75px;
+ }
+ .img13
+ {
+   position: absolute;
+   margin-top: -140px;
+   margin-left: 400px;
+   width: 200px;
+   height: 30px;
+ }
+ .img14
+ {
+   position: absolute;
+   margin-top: -100px;
+   width: 180px;
+   height: 70px;
+   margin-left: 395px;
+ }
+ .img15
+ {
+   position: absolute;
+   width: 180px;
+   height: 30px;
+   margin-top: -100px;
+   margin-left: 740px;
+ }
+ .img16
+ {
+   position: absolute;
+   margin-top: -100px;
+   margin-left: 950px;
+   width: 40px;
+   height: 40px;
+ }
+ .img17
+ {
+   position: absolute;
+   margin-top: -100px;
+   margin-left: 1010px;
+   width: 40px;
+   height: 40px;
+ }
+ .img18
+ {
+   position: absolute;
+   margin-top: -100px;
+   margin-left: 1070px;
+   width: 40px;
+   height: 40px;
+ }
+ .img19
+ {
+   position: absolute;
+   margin-top: -100px;
+   margin-left: 1130px;
+   width: 42px;
+   height: 42px;
+ }
+   
+ 
